@@ -1,0 +1,135 @@
+body {
+    font-family: 'Karla', sans-serif;
+
+}
+
+.Coming-Soon {
+    height: 500px;
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/skulls.png");
+    color: white;
+}
+
+.Coming-Soon h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.line {
+    width: 50px;
+    border: 1px dotted grey;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    border-width: 10px;
+}
+
+
+.content h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content img {
+    height: 100px;
+}
+
+
+
+.quote {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.story {
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/skulls.png");
+    color: white;
+}
+
+.story h5 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.story h4 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile-pic {
+    height: 250px;
+    border-radius: 200px;
+    /* box-shadow: 0 0 10px  rgba(0, 0, 0, 0.3); */
+    box-shadow: 5px 5px 20px black;
+    /* opacity: 0.6; */
+}
+
+.name-underline {
+    width: 150px;
+}
+
+.circle {
+    height: 300px;
+    /* border-radius: 150px; */
+    /* box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3); */
+}
+
+.writes {
+    font-size: small;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-image: none;
+}
+
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  font-weight: bolder;
+  color: white;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  font-weight: bolder;
+  color: white;
+}
+
+.button-css {
+    font-size: 20px;
+    width: 10rem;
+    border-radius: 25px;
+    border-top: 0px solid;
+    box-shadow: 5px 5px 20px black;
+}
+
+
+.contact h4 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.help h4 {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.aboutme h4 {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.footer {
+  background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/skulls.png");
+  color: white;
+}
+
+.footer p {
+  margin-bottom: 0;
+  padding: 15px;
+}
+
+
+
+
